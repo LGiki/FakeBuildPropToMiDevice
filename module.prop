@@ -1,0 +1,6 @@
+id=FakeBuildPropToMiDevice
+name=Fake Build prop to Mi device
+version=0.1
+versionCode=1
+author=LGiki
+description=Add Mi Push Service Framework into system systemlessly. Change some props to fake miui. Kill official Xiaomi Service Framework.
